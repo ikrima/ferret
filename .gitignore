@@ -1,7 +1,7 @@
-src/
-target/
-test/
-resources/
+# src/
+# target/
+# test/
+# resources/
 bin/
 docs/
 release/

@@ -1,0 +1,9 @@
+Package: ferret-lisp
+Priority: extra
+Section: devel
+Maintainer: Nurullah Akkaya <nurullah@nakkaya.com>
+Architecture: all
+Depends: bash, java-runtime-headless
+Description: Ferret lisp compiler
+Homepage: https://ferret-lang.org/
+Change: ownership: sudo chown -R root:root ./deb
